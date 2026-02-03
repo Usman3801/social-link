@@ -67,7 +67,7 @@ a {
 @media screen and (max-width: 375px) {
     .workspace {
         max-width: 90vw;
-        max-height: 90vh;
+        max-height: 60vh;
         padding: 25px 15px;
     }
     
@@ -84,4 +84,5 @@ a {
         font-size: 14px;
         width: 90px;
     }
+
 }
