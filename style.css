@@ -45,6 +45,7 @@ p {
     height: 36px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    text-docration: none;
 }
 .socials > div:hover {
     background-color: hsl(75, 94%, 57%);
@@ -83,9 +84,11 @@ a {
         height: 40px;
         font-size: 14px;
         width: 90px;
+        text-docration: none;
     }
 
 }
+
 
 
 
